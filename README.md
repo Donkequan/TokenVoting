@@ -1,4 +1,4 @@
-# 区块链简单投票
+# 区块链基于Token的投票
 
 https://www.bilibili.com/video/BV1JJ411D7Ve
 
